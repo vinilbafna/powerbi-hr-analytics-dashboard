@@ -16,11 +16,11 @@ Tools & Technologies:
 - Power BI Desktop
 - DAX Measures
 - Power Query (Data Transformation)
-
-![Dashboard Screenshot](pbi-12.PNG)
 - Business Value
 
 This dashboard helps organizations:
 - Identify key attrition drivers
 - Improve employee retention strategies
 - Optimize HR policies using data-backed insights
+
+![Dashboard Screenshot](pbi-12.PNG)
