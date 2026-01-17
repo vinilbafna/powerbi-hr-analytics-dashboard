@@ -17,7 +17,7 @@ Tools & Technologies:
 - DAX Measures
 - Power Query (Data Transformation)
 
-![Dashboard Screenshot](pbi-12.png)
+![Dashboard Screenshot](pbi-12.PNG)
 - Business Value
 
 This dashboard helps organizations:
